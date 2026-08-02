@@ -6,3 +6,4 @@ matplotlib>=3.7
 mujoco>=3.0
 imageio>=2.31
 imageio-ffmpeg>=0.4
+simpy>=4.0
