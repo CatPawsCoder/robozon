@@ -1,0 +1,8 @@
+numpy>=1.24
+trimesh>=4.0
+shapely>=2.0
+scipy>=1.10
+matplotlib>=3.7
+mujoco>=3.0
+imageio>=2.31
+imageio-ffmpeg>=0.4

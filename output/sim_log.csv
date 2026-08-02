@@ -1,0 +1,12 @@
+﻿name,category,spawn_y,spawn_yaw,target_zone,actual_zone,correct,final_x,final_y,t_classify_s,t_zone_entry_s,manual_review
+Бутылка,D,0.0,0.0,D,D,True,3.26,-1.98,1.3,5.18,False
+Цилиндр,D,0.0,0.0,D,D,True,3.55,-0.87,1.3,5.24,False
+Короб 300х200х200,B,0.0,0.0,B,B,True,4.5,0.0,1.3,4.93,False
+Короб 400х400х300,C,0.0,0.0,C,C,True,3.47,0.87,1.3,,False
+ЛанчБокс,B,0.0,0.0,B,B,True,4.19,-0.02,1.3,4.7,False
+Мешок,D,0.0,0.0,D,D,True,3.98,-2.1,1.3,5.65,False
+Моющее средство,B,0.0,0.0,B,B,True,4.38,0.52,1.3,4.76,False
+Пуфик,C,0.0,0.0,C,C,True,3.63,2.42,1.3,5.71,False
+Ручка,C,0.0,0.0,C,C,True,2.9,-0.0,1.3,,False
+Шлем,D,0.0,0.0,D,D,True,3.49,-2.51,1.3,5.8,False
+Тарелка,D,0.0,0.0,D,D,True,3.43,-1.18,1.31,5.06,False

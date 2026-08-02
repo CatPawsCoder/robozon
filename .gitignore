@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# крупные бинарники -> облачное хранилище (Nextcloud), не в git
+output/sim_demo.mp4
+*.mp4
+
+# логи движка
+MUJOCO_LOG.TXT
